@@ -1,0 +1,378 @@
+{
+  "missions": [
+    {
+      "startingTrashLocations": [
+        {
+          "position": {
+            "x": 206.10401916503906,
+            "y": 363.01842041015624
+          },
+          "size": "TrashSize.medium",
+          "waypointCount": 0
+        }
+      ],
+      "solutionWaypoints": [
+        {
+          "x": 206.3835117669753,
+          "y": 362.4468504352334
+        }
+      ],
+      "batteryCapacity": 300.0,
+      "solutionBatteryCapacity": 100.0,
+      "index": 0,
+      "sectorIndex": 0,
+      "baseStationPosition": {
+        "x": 200.0,
+        "y": 645.0
+      },
+      "driftDirection": {
+        "x": 1.2246467991473532e-16,
+        "y": 1.0
+      },
+      "driftSpeed": 2.0,
+      "sectorMapPosition": {
+        "x": 72.0,
+        "y": 116.0
+      }
+    },
+    {
+      "startingTrashLocations": [
+        {
+          "position": {
+            "x": 166.17599487304688,
+            "y": 398.2197021484375
+          },
+          "size": "TrashSize.medium",
+          "waypointCount": 0
+        },
+        {
+          "position": {
+            "x": 260.8514709472656,
+            "y": 396.9246459960938
+          },
+          "size": "TrashSize.medium",
+          "waypointCount": 0
+        }
+      ],
+      "solutionWaypoints": [
+        {
+          "x": 306.94544813368054,
+          "y": 410.95235188802087
+        },
+        {
+          "x": 152.4673612618152,
+          "y": 422.2541805314429
+        }
+      ],
+      "batteryCapacity": 100.0,
+      "solutionBatteryCapacity": 100.0,
+      "index": 1,
+      "sectorIndex": 0,
+      "baseStationPosition": {
+        "x": 200.0,
+        "y": 645.0
+      },
+      "driftDirection": {
+        "x": 1.2246467991473532e-16,
+        "y": 1.0
+      },
+      "driftSpeed": 3.0,
+      "sectorMapPosition": {
+        "x": 72.0,
+        "y": 201.0
+      }
+    },
+    {
+      "startingTrashLocations": [
+        {
+          "position": {
+            "x": 168.4003648370979,
+            "y": 486.4199527055632
+          },
+          "size": "TrashSize.medium",
+          "waypointCount": 0
+        },
+        {
+          "position": {
+            "x": 221.22156830067746,
+            "y": 372.6438931789702
+          },
+          "size": "TrashSize.medium",
+          "waypointCount": 0
+        },
+        {
+          "position": {
+            "x": 136.1336584060953,
+            "y": 331.3339133035698
+          },
+          "size": "TrashSize.medium",
+          "waypointCount": 0
+        }
+      ],
+      "solutionWaypoints": [
+        {
+          "x": 289.6869130075714,
+          "y": 427.075087559076
+        },
+        {
+          "x": 134.85622905213157,
+          "y": 328.88460060402195
+        }
+      ],
+      "batteryCapacity": 100.0,
+      "solutionBatteryCapacity": 100.0,
+      "index": 2,
+      "sectorIndex": 0,
+      "baseStationPosition": {
+        "x": 200.0,
+        "y": 645.0
+      },
+      "driftDirection": {
+        "x": 0.1569739309086978,
+        "y": 0.9876027465611218
+      },
+      "driftSpeed": 2.0,
+      "sectorMapPosition": {
+        "x": 72.0,
+        "y": 286.0
+      }
+    },
+    {
+      "startingTrashLocations": [
+        {
+          "position": {
+            "x": 292.5945758909571,
+            "y": 368.3721490674578
+          },
+          "size": "TrashSize.medium",
+          "waypointCount": 0
+        },
+        {
+          "position": {
+            "x": 233.0110481682549,
+            "y": 244.07298151562486
+          },
+          "size": "TrashSize.medium",
+          "waypointCount": 0
+        },
+        {
+          "position": {
+            "x": 225.94612850876945,
+            "y": 371.9956043912257
+          },
+          "size": "TrashSize.medium",
+          "waypointCount": 0
+        },
+        {
+          "position": {
+            "x": 195.27237191986606,
+            "y": 185.55363037131892
+          },
+          "size": "TrashSize.medium",
+          "waypointCount": 0
+        }
+      ],
+      "solutionWaypoints": [
+        {
+          "x": 299.58459397304205,
+          "y": 443.18222158926505
+        },
+        {
+          "x": 166.19056456766012,
+          "y": 232.23243543836804
+        }
+      ],
+      "batteryCapacity": 300.0,
+      "solutionBatteryCapacity": 100.0,
+      "index": 3,
+      "sectorIndex": 0,
+      "baseStationPosition": {
+        "x": 200.0,
+        "y": 645.0
+      },
+      "driftDirection": {
+        "x": -0.3611899773902774,
+        "y": 0.9324922521033678
+      },
+      "driftSpeed": 8.0,
+      "sectorMapPosition": {
+        "x": 72.0,
+        "y": 371.0
+      }
+    },
+    {
+      "startingTrashLocations": [
+        {
+          "position": {
+            "x": 132.6845156274479,
+            "y": 435.9890814457891
+          },
+          "size": "TrashSize.medium",
+          "waypointCount": 0
+        },
+        {
+          "position": {
+            "x": 320.7967634347934,
+            "y": 476.5009725747302
+          },
+          "size": "TrashSize.medium",
+          "waypointCount": 0
+        },
+        {
+          "position": {
+            "x": 192.60926941430318,
+            "y": 374.744393192313
+          },
+          "size": "TrashSize.medium",
+          "waypointCount": 0
+        },
+        {
+          "position": {
+            "x": 113.6136268961317,
+            "y": 321.5136432579636
+          },
+          "size": "TrashSize.medium",
+          "waypointCount": 0
+        }
+      ],
+      "solutionWaypoints": [
+        {
+          "x": 81.60782877604166,
+          "y": 315.62944652416087
+        },
+        {
+          "x": 312.7336568950135,
+          "y": 485.14439486279895
+        }
+      ],
+      "batteryCapacity": 300.0,
+      "solutionBatteryCapacity": 100.0,
+      "index": 4,
+      "sectorIndex": 0,
+      "baseStationPosition": {
+        "x": 200.0,
+        "y": 645.0
+      },
+      "driftDirection": {
+        "x": -0.6291436770424507,
+        "y": 0.7772890283784434
+      },
+      "driftSpeed": 2.0,
+      "sectorMapPosition": {
+        "x": 72.0,
+        "y": 456.0
+      }
+    },
+    {
+      "startingTrashLocations": [
+        {
+          "position": {
+            "x": 216.86655229804927,
+            "y": 508.25340620254036
+          },
+          "size": "TrashSize.medium",
+          "waypointCount": 0
+        },
+        {
+          "position": {
+            "x": 275.8983364554786,
+            "y": 488.13650356636816
+          },
+          "size": "TrashSize.medium",
+          "waypointCount": 0
+        },
+        {
+          "position": {
+            "x": 170.43623210252372,
+            "y": 297.0824730612367
+          },
+          "size": "TrashSize.medium",
+          "waypointCount": 0
+        }
+      ],
+      "solutionWaypoints": [
+        {
+          "x": 274.32241708260995,
+          "y": 504.5029108494888
+        },
+        {
+          "x": 141.2965864016686,
+          "y": 273.81704900294176
+        }
+      ],
+      "batteryCapacity": 300.0,
+      "solutionBatteryCapacity": 100.0,
+      "index": 5,
+      "sectorIndex": 0,
+      "baseStationPosition": {
+        "x": 200.0,
+        "y": 645.0
+      },
+      "driftDirection": {
+        "x": -0.9957382608268343,
+        "y": 0.09222426972088983
+      },
+      "driftSpeed": 3.0,
+      "sectorMapPosition": {
+        "x": 72.0,
+        "y": 541.0
+      }
+    },
+    {
+      "startingTrashLocations": [
+        {
+          "position": {
+            "x": 93.90805519598646,
+            "y": 498.759645982457
+          },
+          "size": "TrashSize.medium",
+          "waypointCount": 0
+        },
+        {
+          "position": {
+            "x": 322.0705574644292,
+            "y": 476.8918307401269
+          },
+          "size": "TrashSize.medium",
+          "waypointCount": 0
+        },
+        {
+          "position": {
+            "x": 177.95251636352796,
+            "y": 463.10768389194646
+          },
+          "size": "TrashSize.medium",
+          "waypointCount": 0
+        }
+      ],
+      "solutionWaypoints": [
+        {
+          "x": 353.42585660204475,
+          "y": 471.83931553216627
+        },
+        {
+          "x": 121.08934115186149,
+          "y": 476.63525993441357
+        }
+      ],
+      "batteryCapacity": 300.0,
+      "solutionBatteryCapacity": 100.0,
+      "index": 6,
+      "sectorIndex": 0,
+      "baseStationPosition": {
+        "x": 200.0,
+        "y": 645.0
+      },
+      "driftDirection": {
+        "x": 0.9445048104298901,
+        "y": 0.32849758457985256
+      },
+      "driftSpeed": 5.0,
+      "sectorMapPosition": {
+        "x": 72.0,
+        "y": 626.0
+      }
+    }
+  ],
+  "index": 0
+}
